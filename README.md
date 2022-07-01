@@ -1,4 +1,4 @@
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/derinsaracoglu?cardType=github)](https://git.io/awesome-stats-card)
+![Derin's GitHub stats](https://github-readme-stats.vercel.app/api?username=derinsaracoglu&show_icons=true&theme=dark)
 
 
 
