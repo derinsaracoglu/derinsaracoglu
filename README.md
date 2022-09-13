@@ -1,9 +1,12 @@
-Hey there, I'm Derin.
+# Hey there, I'm Derin !
+
 I’m currently working with Java
 
 
 
 Feel free to reach me derin.saracoglu@gmail.com
+
+
 
 
 
