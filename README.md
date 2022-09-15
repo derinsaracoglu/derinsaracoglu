@@ -13,5 +13,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=derinsaracoglu&show_icons=true&locale=en&layout=compact" alt="derinsaracoglu" /></p>
   
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=derinsaracoglu&show_icons=true&locale=en&theme=dark" alt="derinsaracoglu" /></p>
