@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Derin !</h1>
-<h3 align="left">A passionate backend developer from Turkey</h3>
+<h3 align="left">Backend enthusiast</h3>
 
 - 📫 How to reach me **derin.saracoglu@gmail.com**
 
